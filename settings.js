@@ -17,30 +17,30 @@ module.exports = {
 ☫ Work Mode : @mode
 ☫ Work Type : @worktype
 
-Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
+𝚫𝚴𝐒𝚮 𝐐𝐔𝚵𝚵𝚴 𝚳𝐃 𝐖𝚮𝚫𝚻𝐒𝚫𝚸𝚸 𝚩𝚯𝚻 𝛁2`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
   MONGODB_URL: '', 
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: 3000,
-  BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  OWNER_NUMBER: '94715166712',
-  SUDO: '94715166712',
+  BOT_NAME: '𝐀𝐍𝐒𝐇 𝐐𝐔𝐄𝐄𝐍 𝐌𝐃',
+  OWNER_NAME: '𝚳 𝚪 𝚫 𝚴 𝐒 𝚮  ',
+  OWNER_NUMBER: '918968732903',
+  SUDO: '918968732903',
   WORK_TYPE: 'public',
-  WORK_MODE: 'group',
+  WORK_MODE: 'all',
   TIME_ZONE: 'Asia/Colombo',
-  CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ',
-  STICKER_AUTHOR: 'Qᴜᴇᴇɴ ᴇʟɪꜱᴀ',
-  STICKER_PACK: 'ᴍʀ ɴɪᴍᴀ ᴏꜰᴄ',
+  CAPTION: '© 𝔾𝔼ℕ𝔼ℝ𝔸𝕋𝔼𝔻 𝔹𝕐 𝔸ℕ𝕊ℍ ℚ𝕌𝔼𝔼ℕ 𝕄𝔻',
+  STICKER_AUTHOR: '𝐀𝐍𝐒𝐇 𝐐𝐔𝐄𝐄𝐍 𝐌𝐃',
+  STICKER_PACK: '𝙼𝚁 𝙰𝙽𝚂𝙷 𝙾𝙵𝙲 ',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90,
-  OWNER_R_EMOJI: '👽',
+  OWNER_R_EMOJI: '👩‍💻',
   ALIVE_AS_GIF: true,
   AUTO_VOICE: false,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
-  AUTO_REACT: true,
+  AUTO_REACT: false,
   ONLY_PM_GROUP_MSG_SEND: false,
   AUTO_SEEN_STATUS: true,
   BOT_OFFLINE: false,
@@ -55,7 +55,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   CMD_CORRECT: true,
   ANTI_CHANNEL_FORWARD: false,
   ANTI_BOT: false,
-  BUTTON_MESSAGES: true,
+  BUTTON_MESSAGES: false,
   SONG_DOWNLOAD_TYPE: 'selectable', // audio , document
   VIDEO_DOWNLOAD_TYPE: 'selectable', // video
   FB_DOWNLOAD_TYPE: 'selectable', // hdvideo , sdvideo
@@ -67,10 +67,10 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
     BANED_MSG: "@user You Can't use bot, You are baned by owner!",
     GROUP_LEAVE: '👋 Bye @groupName I am Going.',
     INBOX_BLOCK:
-      '❌ My owner has activated auto inbox blocking. So you will be auto blocked after 8 seconds'
+      'BLOCK !!!'
   },
   BOT_RULES:
-    "*⚖️ 𝚀𝚄𝙴𝙴𝙽 𝙴𝙻𝙸𝚂𝙰 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
+    "*⚖️ 𝙰𝙽𝚂𝙷 𝚀𝚄𝙴𝙴𝙽 𝙼𝙳 𝙱𝙾𝚃 𝚁𝚄𝙻𝙴𝚂 ⚖️*\n\n☫ Don't spam messages.\n☫ Don't add groups without asking owner.\n"
 }
 
 let file = require.resolve(__filename)
